@@ -33,6 +33,7 @@ Break Point 판단을 위해 다음 지표를 중점적으로 관찰하였다.
 - 사용자 수 증가에 따른 지표 변곡점
 
 ---
+![image](https://github.com/user-attachments/assets/639bee4c-092c-4e14-ac53-252218a413ec)
 
 ## 4. 결과 해석 기준
 
@@ -64,3 +65,4 @@ Break Point Test를 통해
 
 본 결과는 운영 기준 사용자 수 산정 및  
 성능 개선 우선순위 결정에 활용 가능하다.
+
