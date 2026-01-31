@@ -22,9 +22,8 @@
 ---
 
 ## 3. 주요 결과 분석
-
-
-
+![image](https://github.com/user-attachments/assets/75c4ede3-dc7c-43f6-bd70-31268c6d766d)
+![image](https://github.com/user-attachments/assets/9a550567-a51b-4af4-9587-53dcc0f88862)
 
 ### 3.1 요청 처리량 (RPS)
 
@@ -80,3 +79,4 @@
 - 부하 제거 후 성능은 정상 수준으로 회복됨
 
 본 테스트를 통해 시스템의 **탄력성(Elasticity)** 과 **안정성**을 검증할 수 있었음
+
