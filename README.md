@@ -82,8 +82,14 @@ locust -f locust_spike.py --host=https://httpbin.org --headless
 - **Spike 테스트**: 급격한 트래픽 증가 대응 능력 검증
 - **지연 시나리오**: 타임아웃 및 느린 응답 처리 확인
 
+## 📄 상세 분석 문서
+
+- [Basic Load Test 결과 분석](docs/basic-load-test.md)
+- [Spike Test 결과 분석](docs/spike-load-test.md)
+
 ## 📝 참고사항
 
 - httpbin.org는 공개 테스트 API로, 실제 운영 환경 테스트 시 `--host` 옵션 변경 필요
 - 대규모 테스트 시 분산 모드(`--master`, `--worker`) 활용 권장
 - 방화벽/네트워크 정책 확인 필요
+
