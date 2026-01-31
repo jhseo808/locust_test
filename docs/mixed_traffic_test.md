@@ -36,7 +36,8 @@
 본 테스트는 이러한 현실적인 상황을 재현하기 위해 설계되었다.
 
 ---
-![image](https://github.com/user-attachments/assets/cb302f93-e3fe-4bf5-b9e9-f1806a9bec79)
+![image](https://github.com/user-attachments/assets/a08ee509-d3fc-42d2-9aa1-f0e835894e6f)
+![image](https://github.com/user-attachments/assets/8feb94e7-5dd6-44c7-9745-0cd70c31c005)
 
 
 ## 4. 주요 관찰 지표
@@ -83,4 +84,5 @@ SLA 만족 여부에 결정적인 영향을 미칠 수 있음을 확인하였다
 본 테스트는 평균 응답 시간만으로는  
 성능 상태를 정확히 판단할 수 없음을 보여주는  
 대표적인 사례로 활용 가능하다.
+
 
